@@ -1,2 +1,2 @@
 # Projectportfolio
-This contribution is goes to also friend, to help me design this portfolio wedsite.
+This contribution is goes to also friend, to help me design this portfolio website.
